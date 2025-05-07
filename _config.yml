@@ -42,20 +42,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alex Fielder"
+  name   : "Joe Scholar"
   avatar : "/assets/images/bio-photo.png"
   bio    : "Graduating USU with a Bachelor's of Environmental Studies"
   location : "Logan, UT"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:alexfielder02@gmail.com"
+      url: "mailto:"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alexander-fielder/"
+      url: "https://www.linkedin.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/afielder02"
+      url: "https://github.com"
 
 footer:
   links:
